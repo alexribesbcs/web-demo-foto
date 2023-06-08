@@ -63,7 +63,7 @@ body {
     text-align: center;
     background-image: url(../img/fondo.jpg);
     background-size: cover;
-    background-position: 0 40%;
+    background-position: center;
 }
 
 .hero__title {
