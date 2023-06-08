@@ -64,6 +64,7 @@ body {
     background-image: url(../img/fondo.jpg);
     background-size: cover;
     background-position: center;
+    -webkit-background-position: center;
 }
 
 .hero__title {
